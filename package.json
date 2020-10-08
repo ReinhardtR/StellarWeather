@@ -13,7 +13,7 @@
     "react-places-autocomplete": "^7.3.0",
     "react-scripts": "^3.4.3",
     "weather-icons": "^1.3.2",
-    "homepage": "https://ReinhardtR.github.io/StellarWeather"
+    "homepage": "https://reinhardtr.github.io/StellarWeather/"
   },
   "scripts": {
     "predeploy": "npm run build",
