@@ -76,7 +76,7 @@ class WeatherAPI extends Component {
       dwId.push(data.daily[i].weather[0].id)
       dwWindSpeed.push(Math.round(data.daily[i].wind_speed))
       dwWindDeg.push(data.daily[i].wind_deg)
-      dwRain.push(data.daily[i].pop * 100)
+      dwRain.push(Math.round(data.daily[i].pop * 100))
     }
 
     this.setState({

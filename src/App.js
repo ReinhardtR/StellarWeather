@@ -22,7 +22,7 @@ function App() {
         <UserLocation/>
       </main>
       <footer>
-        © 2020, Weather Bois, Inc. All right reserved.
+        © 2020, Stellar Weather, Inc. All right reserved.
       </footer>
     </div>
   );
