@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/StellarWeather/static/css/main.b580974d.chunk.css",
-    "main.js": "/StellarWeather/static/js/main.f066600e.chunk.js",
-    "main.js.map": "/StellarWeather/static/js/main.f066600e.chunk.js.map",
+    "main.js": "/StellarWeather/static/js/main.c20a3548.chunk.js",
+    "main.js.map": "/StellarWeather/static/js/main.c20a3548.chunk.js.map",
     "runtime-main.js": "/StellarWeather/static/js/runtime-main.c7eb2d8c.js",
     "runtime-main.js.map": "/StellarWeather/static/js/runtime-main.c7eb2d8c.js.map",
     "static/js/2.69399ad2.chunk.js": "/StellarWeather/static/js/2.69399ad2.chunk.js",
     "static/js/2.69399ad2.chunk.js.map": "/StellarWeather/static/js/2.69399ad2.chunk.js.map",
     "index.html": "/StellarWeather/index.html",
-    "precache-manifest.bf4372f3e303cf41d76c0966cb4f3848.js": "/StellarWeather/precache-manifest.bf4372f3e303cf41d76c0966cb4f3848.js",
+    "precache-manifest.d575af50269a3f76b76a777afc44a360.js": "/StellarWeather/precache-manifest.d575af50269a3f76b76a777afc44a360.js",
     "service-worker.js": "/StellarWeather/service-worker.js",
     "static/css/main.b580974d.chunk.css.map": "/StellarWeather/static/css/main.b580974d.chunk.css.map",
     "static/js/2.69399ad2.chunk.js.LICENSE.txt": "/StellarWeather/static/js/2.69399ad2.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.c7eb2d8c.js",
     "static/js/2.69399ad2.chunk.js",
     "static/css/main.b580974d.chunk.css",
-    "static/js/main.f066600e.chunk.js"
+    "static/js/main.c20a3548.chunk.js"
   ]
 }

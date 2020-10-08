@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab7e2963fab49296e601bef3f576a976",
+    "revision": "5557af358c4647a38a2833ff92cb1b09",
     "url": "/StellarWeather/index.html"
   },
   {
-    "revision": "0d99b0f7f783661f0c7f",
+    "revision": "8835e0e7f3cba525eba4",
     "url": "/StellarWeather/static/css/main.b580974d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StellarWeather/static/js/2.69399ad2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d99b0f7f783661f0c7f",
-    "url": "/StellarWeather/static/js/main.f066600e.chunk.js"
+    "revision": "8835e0e7f3cba525eba4",
+    "url": "/StellarWeather/static/js/main.c20a3548.chunk.js"
   },
   {
     "revision": "df0f14f09646efa49ec9",
