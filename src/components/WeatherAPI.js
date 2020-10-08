@@ -41,7 +41,7 @@ class WeatherAPI extends Component {
 
   getWeather = async (latitude, longitude) => {
     const apiKey = process.env.REACT_APP_OWM_API_KEY;
-    const apiURL = "//api.openweathermap.org/data/2.5";
+    const apiURL = "https://api.openweathermap.org/data/2.5";
 
     // Weather Data API
     const apiCall = await fetch(`${apiURL}/onecall?lat=${latitude}&lon=${longitude}&lang=da&appid=${apiKey}&units=metric`);
